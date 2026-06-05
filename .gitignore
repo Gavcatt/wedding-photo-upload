@@ -1,0 +1,10 @@
+# Ignore system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore node modules if someone uses npm locally
+node_modules/
